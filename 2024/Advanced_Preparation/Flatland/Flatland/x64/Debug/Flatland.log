@@ -1,0 +1,4 @@
+﻿  Solutions.cpp
+G:\Visual C++ Project\2024\Advanced_Preparation\Flatland\Flatland\Solutions.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\2024\Advanced_Preparation\Flatland\Flatland\Solutions.cpp(10,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Flatland.vcxproj -> G:\Visual C++ Project\2024\Advanced_Preparation\Flatland\x64\Debug\Flatland.exe

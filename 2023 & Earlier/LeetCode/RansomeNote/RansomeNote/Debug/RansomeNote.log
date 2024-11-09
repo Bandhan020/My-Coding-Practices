@@ -1,0 +1,5 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\ransomenote\ransomenote\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\ransomenote\ransomenote\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\ransomenote\ransomenote\source.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  RansomeNote.vcxproj -> G:\Visual C++ Project\Leetcode\RansomeNote\Debug\RansomeNote.exe

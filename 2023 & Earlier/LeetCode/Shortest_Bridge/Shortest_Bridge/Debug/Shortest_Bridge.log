@@ -1,0 +1,11 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\shortest_bridge\shortest_bridge\source.cpp(17): error C3861: 'fun': identifier not found
+g:\visual c++ project\leetcode\shortest_bridge\shortest_bridge\source.cpp(18): error C3861: 'bfs': identifier not found
+g:\visual c++ project\leetcode\shortest_bridge\shortest_bridge\source.cpp(24): warning C4018: '>=': signed/unsigned mismatch
+g:\visual c++ project\leetcode\shortest_bridge\shortest_bridge\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\shortest_bridge\shortest_bridge\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\shortest_bridge\shortest_bridge\source.cpp(57): error C3861: 'valid': identifier not found
+g:\visual c++ project\leetcode\shortest_bridge\shortest_bridge\source.cpp(60): error C3861: 'valid': identifier not found
+g:\visual c++ project\leetcode\shortest_bridge\shortest_bridge\source.cpp(63): error C3861: 'valid': identifier not found
+g:\visual c++ project\leetcode\shortest_bridge\shortest_bridge\source.cpp(66): error C3861: 'valid': identifier not found
+g:\visual c++ project\leetcode\shortest_bridge\shortest_bridge\source.cpp(75): warning C4018: '>=': signed/unsigned mismatch

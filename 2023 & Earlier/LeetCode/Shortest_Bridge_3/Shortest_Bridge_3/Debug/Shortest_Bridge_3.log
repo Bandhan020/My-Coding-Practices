@@ -1,0 +1,6 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\shortest_bridge_3\shortest_bridge_3\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\shortest_bridge_3\shortest_bridge_3\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\shortest_bridge_3\shortest_bridge_3\source.cpp(23): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\shortest_bridge_3\shortest_bridge_3\source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  Shortest_Bridge_3.vcxproj -> G:\Visual C++ Project\Leetcode\Shortest_Bridge_3\Debug\Shortest_Bridge_3.exe

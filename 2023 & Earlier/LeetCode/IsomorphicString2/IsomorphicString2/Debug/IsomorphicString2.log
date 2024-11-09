@@ -1,0 +1,3 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\isomorphicstring2\isomorphicstring2\source.cpp(7): warning C4018: '<': signed/unsigned mismatch
+  IsomorphicString2.vcxproj -> G:\Visual C++ Project\Leetcode\IsomorphicString2\Debug\IsomorphicString2.exe

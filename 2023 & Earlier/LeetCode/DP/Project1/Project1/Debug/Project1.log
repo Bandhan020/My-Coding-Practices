@@ -1,0 +1,11 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\dp\project1\project1\source.cpp(15): error C3861: 'fun': identifier not found
+g:\visual c++ project\leetcode\dp\project1\project1\source.cpp(16): error C3861: 'bfs': identifier not found
+g:\visual c++ project\leetcode\dp\project1\project1\source.cpp(22): warning C4018: '>=': signed/unsigned mismatch
+g:\visual c++ project\leetcode\dp\project1\project1\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\dp\project1\project1\source.cpp(36): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\dp\project1\project1\source.cpp(55): error C3861: 'valid': identifier not found
+g:\visual c++ project\leetcode\dp\project1\project1\source.cpp(58): error C3861: 'valid': identifier not found
+g:\visual c++ project\leetcode\dp\project1\project1\source.cpp(61): error C3861: 'valid': identifier not found
+g:\visual c++ project\leetcode\dp\project1\project1\source.cpp(64): error C3861: 'valid': identifier not found
+g:\visual c++ project\leetcode\dp\project1\project1\source.cpp(73): warning C4018: '>=': signed/unsigned mismatch

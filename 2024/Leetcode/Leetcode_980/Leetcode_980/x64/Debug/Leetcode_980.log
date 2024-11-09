@@ -1,0 +1,4 @@
+﻿  solutions.cpp
+G:\Visual C++ Project\2024\Advanced_Preparation\Leetcode_980\Leetcode_980\solutions.cpp(78,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\2024\Advanced_Preparation\Leetcode_980\Leetcode_980\solutions.cpp(79,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Leetcode_980.vcxproj -> G:\Visual C++ Project\2024\Advanced_Preparation\Leetcode_980\x64\Debug\Leetcode_980.exe

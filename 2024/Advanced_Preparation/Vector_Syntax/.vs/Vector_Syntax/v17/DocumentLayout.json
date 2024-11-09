@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Vector_Syntax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{355E0520-9755-48B3-B333-A2BFD0435129}|Vector_Syntax\\Vector_Syntax.vcxproj|G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Vector_Syntax\\Vector_Syntax\\Solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{355E0520-9755-48B3-B333-A2BFD0435129}|Vector_Syntax\\Vector_Syntax.vcxproj|solutionrelative:Vector_Syntax\\Solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solutions.cpp",
+              "DocumentMoniker": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Vector_Syntax\\Vector_Syntax\\Solutions.cpp",
+              "RelativeDocumentMoniker": "Vector_Syntax\\Solutions.cpp",
+              "ToolTip": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Vector_Syntax\\Vector_Syntax\\Solutions.cpp",
+              "RelativeToolTip": "Vector_Syntax\\Solutions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T21:15:06.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

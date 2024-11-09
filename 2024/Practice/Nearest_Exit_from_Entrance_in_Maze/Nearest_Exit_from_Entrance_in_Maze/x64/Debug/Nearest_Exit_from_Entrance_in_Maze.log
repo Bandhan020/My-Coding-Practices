@@ -1,0 +1,4 @@
+﻿  source.cpp
+G:\Visual C++ Project\2024\Practice\Nearest_Exit_from_Entrance_in_Maze\Nearest_Exit_from_Entrance_in_Maze\source.cpp(7,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\2024\Practice\Nearest_Exit_from_Entrance_in_Maze\Nearest_Exit_from_Entrance_in_Maze\source.cpp(8,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Nearest_Exit_from_Entrance_in_Maze.vcxproj -> G:\Visual C++ Project\2024\Practice\Nearest_Exit_from_Entrance_in_Maze\x64\Debug\Nearest_Exit_from_Entrance_in_Maze.exe

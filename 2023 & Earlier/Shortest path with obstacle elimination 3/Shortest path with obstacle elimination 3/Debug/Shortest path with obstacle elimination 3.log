@@ -1,0 +1,3 @@
+﻿  Source.cpp
+g:\visual c++ project\shortest path with obstacle elimination 3\shortest path with obstacle elimination 3\source.cpp(63): warning C4715: 'pop_q': not all control paths return a value
+  Shortest path with obstacle elimination 3.vcxproj -> G:\Visual C++ Project\Shortest path with obstacle elimination 3\Debug\Shortest path with obstacle elimination 3.exe

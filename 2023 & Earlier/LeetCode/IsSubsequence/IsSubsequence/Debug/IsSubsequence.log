@@ -1,0 +1,8 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\issubsequence\issubsequence\source.cpp(10): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\issubsequence\issubsequence\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\issubsequence\issubsequence\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\issubsequence\issubsequence\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\issubsequence\issubsequence\source.cpp(23): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\issubsequence\issubsequence\source.cpp(31): error C2374: 'k': redefinition; multiple initialization
+  g:\visual c++ project\leetcode\issubsequence\issubsequence\source.cpp(21): note: see declaration of 'k'

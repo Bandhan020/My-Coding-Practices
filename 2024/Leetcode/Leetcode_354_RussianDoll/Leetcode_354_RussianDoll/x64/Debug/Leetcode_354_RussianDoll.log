@@ -1,0 +1,4 @@
+﻿  solutions.cpp
+G:\Visual C++ Project\2024\Advanced_Preparation\Leetcode_354_RussianDoll\Leetcode_354_RussianDoll\solutions.cpp(18,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\2024\Advanced_Preparation\Leetcode_354_RussianDoll\Leetcode_354_RussianDoll\solutions.cpp(31,17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Leetcode_354_RussianDoll.vcxproj -> G:\Visual C++ Project\2024\Advanced_Preparation\Leetcode_354_RussianDoll\x64\Debug\Leetcode_354_RussianDoll.exe

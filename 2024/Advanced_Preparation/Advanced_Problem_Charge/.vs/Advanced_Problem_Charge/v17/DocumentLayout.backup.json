@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Advanced_Problem_Charge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD8453D-F8B5-404E-9A77-8BB0CB2EF264}|Advanced_Problem_Charge\\Advanced_Problem_Charge.vcxproj|G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Advanced_Problem_Charge\\Advanced_Problem_Charge\\solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BD8453D-F8B5-404E-9A77-8BB0CB2EF264}|Advanced_Problem_Charge\\Advanced_Problem_Charge.vcxproj|solutionrelative:Advanced_Problem_Charge\\solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solutions.cpp",
+              "DocumentMoniker": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Advanced_Problem_Charge\\Advanced_Problem_Charge\\solutions.cpp",
+              "RelativeDocumentMoniker": "Advanced_Problem_Charge\\solutions.cpp",
+              "ToolTip": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Advanced_Problem_Charge\\Advanced_Problem_Charge\\solutions.cpp",
+              "RelativeToolTip": "Advanced_Problem_Charge\\solutions.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T11:27:44.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

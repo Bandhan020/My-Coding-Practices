@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Leetcode_174\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A76C6A5A-FCE0-4EF2-BEDA-26D584EB489D}|Leetcode_174\\Leetcode_174.vcxproj|G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Leetcode_174\\Leetcode_174\\solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A76C6A5A-FCE0-4EF2-BEDA-26D584EB489D}|Leetcode_174\\Leetcode_174.vcxproj|solutionrelative:Leetcode_174\\solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solutions.cpp",
+              "DocumentMoniker": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Leetcode_174\\Leetcode_174\\solutions.cpp",
+              "RelativeDocumentMoniker": "Leetcode_174\\solutions.cpp",
+              "ToolTip": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\Leetcode_174\\Leetcode_174\\solutions.cpp",
+              "RelativeToolTip": "Leetcode_174\\solutions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-03T16:35:09.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

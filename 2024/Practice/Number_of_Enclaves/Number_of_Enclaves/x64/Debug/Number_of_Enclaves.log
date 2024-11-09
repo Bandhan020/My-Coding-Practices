@@ -1,0 +1,4 @@
+﻿  source.cpp
+G:\Visual C++ Project\2024\Practice\Number_of_Enclaves\Number_of_Enclaves\source.cpp(19,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\2024\Practice\Number_of_Enclaves\Number_of_Enclaves\source.cpp(20,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Number_of_Enclaves.vcxproj -> G:\Visual C++ Project\2024\Practice\Number_of_Enclaves\x64\Debug\Number_of_Enclaves.exe

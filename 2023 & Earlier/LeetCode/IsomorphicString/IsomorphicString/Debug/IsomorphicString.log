@@ -1,0 +1,4 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\isomorphicstring\isomorphicstring\source.cpp(10): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\isomorphicstring\isomorphicstring\source.cpp(9): warning C4101: 'j': unreferenced local variable
+  IsomorphicString.vcxproj -> G:\Visual C++ Project\Leetcode\IsomorphicString\Debug\IsomorphicString.exe

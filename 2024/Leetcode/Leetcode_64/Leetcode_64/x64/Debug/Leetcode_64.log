@@ -1,0 +1,4 @@
+﻿  solutions.cpp
+G:\Visual C++ Project\2024\Advanced_Preparation\Leetcode_64\Leetcode_64\solutions.cpp(23,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\2024\Advanced_Preparation\Leetcode_64\Leetcode_64\solutions.cpp(24,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Leetcode_64.vcxproj -> G:\Visual C++ Project\2024\Advanced_Preparation\Leetcode_64\x64\Debug\Leetcode_64.exe

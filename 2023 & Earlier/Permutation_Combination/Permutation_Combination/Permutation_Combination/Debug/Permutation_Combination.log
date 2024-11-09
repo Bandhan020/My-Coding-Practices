@@ -1,0 +1,6 @@
+﻿  Source.cpp
+g:\visual c++ project\permutation_combination\permutation_combination\permutation_combination\source.cpp(13): warning C4018: '>=': signed/unsigned mismatch
+g:\visual c++ project\permutation_combination\permutation_combination\permutation_combination\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\permutation_combination\permutation_combination\permutation_combination\source.cpp(29): warning C4018: '>=': signed/unsigned mismatch
+g:\visual c++ project\permutation_combination\permutation_combination\permutation_combination\source.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  Permutation_Combination.vcxproj -> G:\Visual C++ Project\Permutation_Combination\Permutation_Combination\Debug\Permutation_Combination.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\spiral_matrix\spiral_matrix\source.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  Spiral_Matrix.vcxproj -> G:\Visual C++ Project\Leetcode\Spiral_Matrix\Debug\Spiral_Matrix.exe

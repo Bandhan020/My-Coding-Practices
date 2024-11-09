@@ -1,0 +1,6 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\findthedifference\findthedifference\source.cpp(7): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\findthedifference\findthedifference\source.cpp(10): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\findthedifference\findthedifference\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\findthedifference\findthedifference\source.cpp(19): warning C4715: 'findTheDifference': not all control paths return a value
+  FindTheDifference.vcxproj -> G:\Visual C++ Project\Leetcode\FindTheDifference\Debug\FindTheDifference.exe

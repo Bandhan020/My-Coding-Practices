@@ -1,0 +1,3 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\binarytreepaths\binarytreepaths\source.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  BinaryTreePaths.vcxproj -> G:\Visual C++ Project\Leetcode\BinaryTreePaths\Debug\BinaryTreePaths.exe

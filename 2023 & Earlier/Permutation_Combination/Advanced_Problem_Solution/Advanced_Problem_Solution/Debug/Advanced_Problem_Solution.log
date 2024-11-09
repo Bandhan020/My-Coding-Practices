@@ -1,0 +1,5 @@
+﻿  Source.cpp
+g:\visual c++ project\permutation_combination\advanced_problem_solution\advanced_problem_solution\source.cpp(14): warning C4018: '>=': signed/unsigned mismatch
+g:\visual c++ project\permutation_combination\advanced_problem_solution\advanced_problem_solution\source.cpp(17): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\permutation_combination\advanced_problem_solution\advanced_problem_solution\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  Advanced_Problem_Solution.vcxproj -> G:\Visual C++ Project\Permutation_Combination\Advanced_Problem_Solution\Debug\Advanced_Problem_Solution.exe

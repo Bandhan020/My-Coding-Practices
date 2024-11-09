@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimizingMaximumDistance2", "MinimizingMaximumDistance2\MinimizingMaximumDistance2.vcxproj", "{828B20B1-BD8D-42BF-A269-20AC846EEE9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828B20B1-BD8D-42BF-A269-20AC846EEE9C}.Debug|x64.ActiveCfg = Debug|x64
+		{828B20B1-BD8D-42BF-A269-20AC846EEE9C}.Debug|x64.Build.0 = Debug|x64
+		{828B20B1-BD8D-42BF-A269-20AC846EEE9C}.Debug|x86.ActiveCfg = Debug|Win32
+		{828B20B1-BD8D-42BF-A269-20AC846EEE9C}.Debug|x86.Build.0 = Debug|Win32
+		{828B20B1-BD8D-42BF-A269-20AC846EEE9C}.Release|x64.ActiveCfg = Release|x64
+		{828B20B1-BD8D-42BF-A269-20AC846EEE9C}.Release|x64.Build.0 = Release|x64
+		{828B20B1-BD8D-42BF-A269-20AC846EEE9C}.Release|x86.ActiveCfg = Release|Win32
+		{828B20B1-BD8D-42BF-A269-20AC846EEE9C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B9B0A84-B7BC-4F38-BCEC-3F5F8C801FA1}
+	EndGlobalSection
+EndGlobal

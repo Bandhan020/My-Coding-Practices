@@ -1,0 +1,5 @@
+﻿  solutions.cpp
+G:\Visual C++ Project\2024\Advanced_Preparation\Advanced_Problem_Charge\Advanced_Problem_Charge\solutions.cpp(135,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\2024\Advanced_Preparation\Advanced_Problem_Charge\Advanced_Problem_Charge\solutions.cpp(136,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\2024\Advanced_Preparation\Advanced_Problem_Charge\Advanced_Problem_Charge\solutions.cpp(110,9): warning C4101: 't': unreferenced local variable
+  Advanced_Problem_Charge.vcxproj -> G:\Visual C++ Project\2024\Advanced_Preparation\Advanced_Problem_Charge\Advanced_Problem_Charge\x64\Debug\Advanced_Problem_Charge.exe

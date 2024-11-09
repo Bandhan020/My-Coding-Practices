@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\BFS_DFS\\Shortest_Bridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5099110E-3D11-4D63-AF0B-0DA182D58BC0}|Shortest_Bridge\\Shortest_Bridge.vcxproj|G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\BFS_DFS\\Shortest_Bridge\\Shortest_Bridge\\solultion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5099110E-3D11-4D63-AF0B-0DA182D58BC0}|Shortest_Bridge\\Shortest_Bridge.vcxproj|solutionrelative:Shortest_Bridge\\solultion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solultion.cpp",
+              "DocumentMoniker": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\BFS_DFS\\Shortest_Bridge\\Shortest_Bridge\\solultion.cpp",
+              "RelativeDocumentMoniker": "Shortest_Bridge\\solultion.cpp",
+              "ToolTip": "G:\\Visual C\u002B\u002B Project\\2024\\Advanced_Preparation\\BFS_DFS\\Shortest_Bridge\\Shortest_Bridge\\solultion.cpp",
+              "RelativeToolTip": "Shortest_Bridge\\solultion.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T17:31:06.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

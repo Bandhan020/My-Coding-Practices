@@ -1,0 +1,3 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\reversevowelsofastring\reversevowelsofastring\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  ReverseVowelsofaString.vcxproj -> G:\Visual C++ Project\Leetcode\ReverseVowelsofaString\Debug\ReverseVowelsofaString.exe

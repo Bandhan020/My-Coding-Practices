@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual C\u002B\u002B Project\\2024\\Practice\\Shortest_Path_in_a_binary_matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D49D3F2-6892-49DD-8483-7A9635C88290}|Shortest_Path_in_a_binary_matrix\\Shortest_Path_in_a_binary_matrix.vcxproj|G:\\Visual C\u002B\u002B Project\\2024\\Practice\\Shortest_Path_in_a_binary_matrix\\Shortest_Path_in_a_binary_matrix\\sourc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D49D3F2-6892-49DD-8483-7A9635C88290}|Shortest_Path_in_a_binary_matrix\\Shortest_Path_in_a_binary_matrix.vcxproj|solutionrelative:Shortest_Path_in_a_binary_matrix\\sourc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sourc.cpp",
+              "DocumentMoniker": "G:\\Visual C\u002B\u002B Project\\2024\\Practice\\Shortest_Path_in_a_binary_matrix\\Shortest_Path_in_a_binary_matrix\\sourc.cpp",
+              "RelativeDocumentMoniker": "Shortest_Path_in_a_binary_matrix\\sourc.cpp",
+              "ToolTip": "G:\\Visual C\u002B\u002B Project\\2024\\Practice\\Shortest_Path_in_a_binary_matrix\\Shortest_Path_in_a_binary_matrix\\sourc.cpp",
+              "RelativeToolTip": "Shortest_Path_in_a_binary_matrix\\sourc.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T17:32:36.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

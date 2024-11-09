@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Floodfill_2", "Floodfill_2\Floodfill_2.vcxproj", "{AFD933A2-EF2D-45C8-ADFC-14995DDCEADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD933A2-EF2D-45C8-ADFC-14995DDCEADB}.Debug|x64.ActiveCfg = Debug|x64
+		{AFD933A2-EF2D-45C8-ADFC-14995DDCEADB}.Debug|x64.Build.0 = Debug|x64
+		{AFD933A2-EF2D-45C8-ADFC-14995DDCEADB}.Debug|x86.ActiveCfg = Debug|Win32
+		{AFD933A2-EF2D-45C8-ADFC-14995DDCEADB}.Debug|x86.Build.0 = Debug|Win32
+		{AFD933A2-EF2D-45C8-ADFC-14995DDCEADB}.Release|x64.ActiveCfg = Release|x64
+		{AFD933A2-EF2D-45C8-ADFC-14995DDCEADB}.Release|x64.Build.0 = Release|x64
+		{AFD933A2-EF2D-45C8-ADFC-14995DDCEADB}.Release|x86.ActiveCfg = Release|Win32
+		{AFD933A2-EF2D-45C8-ADFC-14995DDCEADB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B56E75A-FCA9-4F52-8316-65DE8955E991}
+	EndGlobalSection
+EndGlobal

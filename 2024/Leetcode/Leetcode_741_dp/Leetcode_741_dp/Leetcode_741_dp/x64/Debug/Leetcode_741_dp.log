@@ -1,0 +1,3 @@
+﻿  solutions.cpp
+G:\Visual C++ Project\2024\Advanced_Preparation\Leetcode_741_dp\Leetcode_741_dp\solutions.cpp(43,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Leetcode_741_dp.vcxproj -> G:\Visual C++ Project\2024\Advanced_Preparation\Leetcode_741_dp\Leetcode_741_dp\x64\Debug\Leetcode_741_dp.exe

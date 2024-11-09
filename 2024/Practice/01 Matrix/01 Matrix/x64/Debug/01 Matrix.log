@@ -1,0 +1,5 @@
+﻿  source.cpp
+G:\Visual C++ Project\2024\Practice\01 Matrix\01 Matrix\source.cpp(9,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\2024\Practice\01 Matrix\01 Matrix\source.cpp(10,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\2024\Practice\01 Matrix\01 Matrix\source.cpp(28,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  01 Matrix.vcxproj -> G:\Visual C++ Project\2024\Practice\01 Matrix\x64\Debug\01 Matrix.exe

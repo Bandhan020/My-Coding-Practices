@@ -1,0 +1,4 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\firstuniquecharacter_in_a_string\firstuniquecharacter_in_a_string\source.cpp(8): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\firstuniquecharacter_in_a_string\firstuniquecharacter_in_a_string\source.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  FirstUniqueCharacter_in_a_String.vcxproj -> G:\Visual C++ Project\Leetcode\FirstUniqueCharacter_in_a_String\Debug\FirstUniqueCharacter_in_a_String.exe

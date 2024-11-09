@@ -1,0 +1,4 @@
+﻿  solution.cpp
+G:\Visual C++ Project\Recursion\Removing the middle element of a stack\Removing the middle element of a stack\solution.cpp(24,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\Recursion\Removing the middle element of a stack\Removing the middle element of a stack\solution.cpp(26,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Removing the middle element of a stack.vcxproj -> G:\Visual C++ Project\Recursion\Removing the middle element of a stack\x64\Debug\Removing the middle element of a stack.exe

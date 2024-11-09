@@ -1,0 +1,5 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\matrix_obtained_by_rotation\matrix_obtained_by_rotation\source.cpp(6): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\matrix_obtained_by_rotation\matrix_obtained_by_rotation\source.cpp(7): warning C4018: '<': signed/unsigned mismatch
+g:\visual c++ project\leetcode\matrix_obtained_by_rotation\matrix_obtained_by_rotation\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  Matrix_obtained_by_Rotation.vcxproj -> G:\Visual C++ Project\Leetcode\Matrix_obtained_by_Rotation\Debug\Matrix_obtained_by_Rotation.exe

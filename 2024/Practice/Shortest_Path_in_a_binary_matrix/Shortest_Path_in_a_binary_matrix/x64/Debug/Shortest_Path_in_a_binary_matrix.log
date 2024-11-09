@@ -1,0 +1,4 @@
+﻿  sourc.cpp
+G:\Visual C++ Project\2024\Practice\Shortest_Path_in_a_binary_matrix\Shortest_Path_in_a_binary_matrix\sourc.cpp(8,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Visual C++ Project\2024\Practice\Shortest_Path_in_a_binary_matrix\Shortest_Path_in_a_binary_matrix\sourc.cpp(9,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Shortest_Path_in_a_binary_matrix.vcxproj -> G:\Visual C++ Project\2024\Practice\Shortest_Path_in_a_binary_matrix\x64\Debug\Shortest_Path_in_a_binary_matrix.exe

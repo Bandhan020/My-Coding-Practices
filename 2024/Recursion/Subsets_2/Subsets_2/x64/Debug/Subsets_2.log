@@ -1,0 +1,3 @@
+﻿  solution.cpp
+G:\Visual C++ Project\2024\Recursion\Subsets_2\Subsets_2\solution.cpp(34,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Subsets_2.vcxproj -> G:\Visual C++ Project\2024\Recursion\Subsets_2\x64\Debug\Subsets_2.exe

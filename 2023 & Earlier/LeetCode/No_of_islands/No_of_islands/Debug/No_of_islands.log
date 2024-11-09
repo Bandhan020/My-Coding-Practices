@@ -1,0 +1,11 @@
+﻿  Source.cpp
+g:\visual c++ project\leetcode\no_of_islands\no_of_islands\source.cpp(14): error C2039: 'top': is not a member of 'std::queue<std::pair<int,int>,std::deque<_Ty,std::allocator<_Ty>>>'
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+  g:\visual c++ project\leetcode\no_of_islands\no_of_islands\source.cpp(6): note: see declaration of 'std::queue<std::pair<int,int>,std::deque<_Ty,std::allocator<_Ty>>>'
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
